@@ -1,4 +1,4 @@
-# RoboticOwl4000's PXN
+# Jacob's PXN
 Prefix notation pre-processor for C, SystemVerilog, and other text based programming languages.
 
 ## PXN Block
